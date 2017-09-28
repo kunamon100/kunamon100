@@ -1,0 +1,19 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Your Title: Old Future Wolf Gang.
+  Site:
+  Twitter:
+  Location: Thun, Bern, Schweiz.
+
+# THANKS
+
+  Name: Sercan Dapar
+  
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3
+  Angular2, TypeScript, Webpack
